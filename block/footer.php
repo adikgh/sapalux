@@ -59,13 +59,13 @@
 							<i class="fab fa-instagram" style="font-weight: 600"></i>
 						</div>
 						<div class="home_maps_txt">
-							<a href="https://www.instagram.com/stirka_kovrov.mr/" target="_blank"><span>@stirka_kovrov.mr</span></a>
+							<a href="https://www.instagram.com/sapa_lux01/" target="_blank"><span>@sapa_lux01</span></a>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="home_maps_m">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1474.5615869741205!2d69.5426540835173!3d42.33989719930039!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38a91baae7251927%3A0x3416647efb917fdd!2z0KfQuNGB0YLQutCwINC60L7QstGA0L7QsiAiU2h5bWtlbnQgQ2xlYW5pbmci!5e0!3m2!1sru!2skz!4v1606056131279!5m2!1sru!2skz" frameborder="0" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1464.7586455846056!2d71.35157576598677!3d51.18414064378956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2skz!4v1741943047192!5m2!1sru!2skz" frameborder="0" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 			</div>
 		</div>
 	</div>
