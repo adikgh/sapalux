@@ -1,5 +1,5 @@
 <div class="callback">
-	<a target="_blank" href="https://wa.me/<?=$site['whatsapp']?>?text=Здравствуйте. Пишу вас с сайта. Хочу заказать стирку ковра ..">
+	<a target="_blank" href="https://wa.me/<?=$site['whatsapp']?>?text=Здравствуйте. Пишу вам с сайта. Хочу заказать стирку ковра ..">
 		<div type="button" class="callback-btw">
 			<i class="fab fa-whatsapp"></i>
 			<span>Whatsapp</span>

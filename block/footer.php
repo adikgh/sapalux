@@ -122,9 +122,7 @@
 	<div class="ft_con">
 		<div class="bl_c">
 			<div class="ft_content">
-				<div class="ft_item">
-					© 2018-2024. Все права защищены.
-				</div>
+				<div class="ft_item">© 2025. Все права защищены.</div>
 				<div class="ft_item">
 					<div class="ft_item_mn">
 						<span>Сайт разработали:</span>
