@@ -41,7 +41,7 @@
 						</div>
 						<div class="home_maps_txt">
 							<p><?=t::w('Address:')?></p>
-							<span><?=t::w('Shymkent city, Begalieva, 1')?></span>
+							<span>г. Астана, Шугыла 30</span>
 						</div>
 					</div>
 					<div class="home_maps_cdi">

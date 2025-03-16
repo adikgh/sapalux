@@ -5,7 +5,7 @@
 
 	$site 		= '';
 	$token 		= "1581082911:AAEKW20w_-5V0Wx9tzhyThV2pjCgZtCjyc8";
-	$chat_id 	= "-1002325597678";
+	$chat_id 	= "-1002680155531";
 	$txt = '';
 	
 	if(isset($_GET['mess'])) {
